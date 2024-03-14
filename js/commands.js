@@ -1,9 +1,9 @@
 
 whois = [
   "<br>",
-  "19 yaşındayım,Adım Utku",
+  "20 yaşındayım,Adım Utku",
   "Ordu'da yaşıyorum Diş Hekimliği okuyorum",
-  "Sütlaç ve İskender Kırmızı Çizgimdir",
+  
   "<br>"
 ];
 
